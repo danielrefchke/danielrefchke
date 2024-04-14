@@ -4,7 +4,9 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ5cjM1NzcybWpib3FrYW5vaHJ3emR4b2RoOHd1ZTZ3bWQ2NHg1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="350"/>
 </div>
 
-Soy analista de sistemas en formación, con habilidades en lenguajes de Front-end y Back-end, y un nivel medio de inglés. Mi idioma nativo es el español y estoy actualmente cursando la carrera de Analista de Sistemas en la Facultad de Ciencia y Tecnología de la UADER. Tengo experiencia en liderazgo, cooperación, autogestión y arbitraje, habilidades blandas que me permiten trabajar en equipo y enfrentar desafíos con confianza.
+<div align="center">
+ Esta página esta en construccion!!!
+</div>
 
 ### Donde me encuentras
 
