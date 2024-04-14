@@ -6,7 +6,17 @@
 
 Soy analista de sistemas en formación, con habilidades en lenguajes de Front-end y Back-end, y un nivel medio de inglés. Mi idioma nativo es el español y estoy actualmente cursando la carrera de Analista de Sistemas en la Facultad de Ciencia y Tecnología de la UADER. Tengo experiencia en liderazgo, cooperación, autogestión y arbitraje, habilidades blandas que me permiten trabajar en equipo y enfrentar desafíos con confianza.
 
+### Donde me encuentras
 
+<div align="center">
+<a href="https://apfrontrefchke.web.app/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Porfolio-e2cfb8?style=for-the-badge"></a>
+ 
+<a href="https://www.linkedin.com/in/danielrefchke/" target="blank">
+ <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-e2cfb8?style=for-the-badge&logo=linkedin&logoColor=202020">
+</a>
+</div>
+
+***
 
 <div align="center">
 
